@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# bin/detect <build-dir>
+
+echo "Arvo Preview Buildpack, Hello!"
+exit 0
